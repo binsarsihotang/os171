@@ -1,0 +1,1 @@
+Praktikum week 00 adalah tahapan awal dalam pembuatan account GitHub beserta bagaimana langkah2 untuk bisa masuk ke server kaung.cs.ui.ac.id dan begitu juga ke server badak.cs.ui.ac.id agar bisa terintegrasi ke accunt GitHub
