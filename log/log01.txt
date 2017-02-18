@@ -1,0 +1,7 @@
+W01-170214-19-LR-About : Structure Of Operating System From : Lecturer
+W01-170214-19-LR-About : Hak Kekayaan Intelektual From : Lecturer
+W01-170214-20-LR-About : Introduction to Shell Scripting From : Lecturer
+W01-170214-20-PS-About : Making a simple script From : Lecturer
+W01-170214-21-PS-About : Make a time function on script From : Lecturer
+W01-170214-16-PS-About : Doing task week01 about CLI, GIT and SCRIPTING
+W01-170218-12-PS-About : Lab Session
