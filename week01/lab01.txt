@@ -20,3 +20,4 @@ drwxr-xr-x  2 binsar.tumpal StafCS 4096 Feb 14 17:54 week09
 drwxr-xr-x  2 binsar.tumpal StafCS 4096 Feb 14 17:54 week10
 drwxr-xr-x  2 binsar.tumpal StafCS 4096 Feb 14 17:55 xtra
 /home/fasilkom/mahasiswa/b/binsar.tumpal/os171/week01
+Today is 18 Feb 2017 at 13:50:02
